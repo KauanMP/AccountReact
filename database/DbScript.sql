@@ -1,6 +1,6 @@
 -- MySQL dump 10.13  Distrib 5.7.17, for Win64 (x86_64)
 --
--- Host: localhost    Database: accountowner
+-- Host: localhost    Database: accountreact
 -- ------------------------------------------------------
 -- Server version	5.7.17-log
 
@@ -18,9 +18,9 @@
 --
 -- Table structure for table `account`
 --
-CREATE DATABASE IF NOT EXISTS accountowner;
+CREATE DATABASE IF NOT EXISTS accountreact;
 
-USE accountowner;
+USE accountreact;
 
 DROP TABLE IF EXISTS `account`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
