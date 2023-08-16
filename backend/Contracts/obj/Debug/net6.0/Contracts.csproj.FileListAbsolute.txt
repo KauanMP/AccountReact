@@ -1,0 +1,12 @@
+C:\Users\kauan\Área de Trabalho\AccountReact\backend\Contracts\bin\Debug\net6.0\Contracts.deps.json
+C:\Users\kauan\Área de Trabalho\AccountReact\backend\Contracts\bin\Debug\net6.0\Contracts.dll
+C:\Users\kauan\Área de Trabalho\AccountReact\backend\Contracts\bin\Debug\net6.0\Contracts.pdb
+C:\Users\kauan\Área de Trabalho\AccountReact\backend\Contracts\obj\Debug\net6.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\kauan\Área de Trabalho\AccountReact\backend\Contracts\obj\Debug\net6.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan\Área de Trabalho\AccountReact\backend\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\kauan\Área de Trabalho\AccountReact\backend\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfo.cs
+C:\Users\kauan\Área de Trabalho\AccountReact\backend\Contracts\obj\Debug\net6.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\kauan\Área de Trabalho\AccountReact\backend\Contracts\obj\Debug\net6.0\Contracts.dll
+C:\Users\kauan\Área de Trabalho\AccountReact\backend\Contracts\obj\Debug\net6.0\refint\Contracts.dll
+C:\Users\kauan\Área de Trabalho\AccountReact\backend\Contracts\obj\Debug\net6.0\Contracts.pdb
+C:\Users\kauan\Área de Trabalho\AccountReact\backend\Contracts\obj\Debug\net6.0\ref\Contracts.dll

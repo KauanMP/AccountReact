@@ -1,0 +1,12 @@
+C:\Users\kauan\Área de Trabalho\AccountReact\backend\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\kauan\Área de Trabalho\AccountReact\backend\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\kauan\Área de Trabalho\AccountReact\backend\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\kauan\Área de Trabalho\AccountReact\backend\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\kauan\Área de Trabalho\AccountReact\backend\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan\Área de Trabalho\AccountReact\backend\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\kauan\Área de Trabalho\AccountReact\backend\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\kauan\Área de Trabalho\AccountReact\backend\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\kauan\Área de Trabalho\AccountReact\backend\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\kauan\Área de Trabalho\AccountReact\backend\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\kauan\Área de Trabalho\AccountReact\backend\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\kauan\Área de Trabalho\AccountReact\backend\Repository\obj\Debug\net6.0\ref\Repository.dll
